@@ -46,11 +46,6 @@ The project uses the FakeAVCeleb dataset.
 
 The dataset is not included in this repository. Users must obtain it separately and configure the dataset path before running the project.
 
-## Team Contributions
-
-- **Laksh:** Dataset loading, balancing, video frame extraction, audio extraction and preprocessing.
-- **Kartik:** Video CNN architecture, training, validation and prediction.
-- **Rishika:** Audio CNN architecture, MFCC processing, training, hybrid fusion and evaluation.
 
 ## How It Works
 
